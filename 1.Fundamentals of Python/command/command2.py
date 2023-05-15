@@ -12,7 +12,7 @@ def main():
         if(sys.argv[1] =="--U"):
             print("Use the application as :")
             print("python Name_of_Application First_number Second_number")
-        exit()
+            exit()
 
         if(sys.argv[1] =="--H"):
             print("Help :This application is used to perform addition of 2 numbers")
@@ -29,7 +29,7 @@ def main():
     print("Addition is : ",Ret)   
 
     print("Thank you for using the application")
-    print("Marvellous Infosystem by Paras Jaitly")
+    print("By Paras Jaitly")
 
 if __name__ == "__main__":
     main()   

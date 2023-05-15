@@ -9,6 +9,8 @@ def main():
     print("Second argument : ",argv[2])
     print("Third argument : ",argv[3])
 
+    print("By Paras Jaitly")
+
 if __name__ == "__main__":
     main()
 

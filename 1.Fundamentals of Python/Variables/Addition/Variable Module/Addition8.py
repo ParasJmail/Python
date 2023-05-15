@@ -1,6 +1,6 @@
 print("Application to demonstrate Industrial Program")
 
-import MarvellousModule
+import ParasModule
 
 def main():
     print("Value of __name__ from main is :",__name__)
@@ -9,7 +9,7 @@ def main():
     print("Enter Second Number :")
     no2 =int(input())
 
-    Sum = MarvellousModule.Addition(no1,no2)
+    Sum = ParasModule.Addition(no1,no2)
 
     print("Addition is : ", Sum)
 

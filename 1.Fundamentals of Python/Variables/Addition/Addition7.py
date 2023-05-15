@@ -1,4 +1,3 @@
-# python Additio7.py
 
 print("Application to demonstrate Industrial Program")
 
